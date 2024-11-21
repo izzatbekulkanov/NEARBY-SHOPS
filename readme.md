@@ -1,6 +1,5 @@
-# Make a Location-Based Web App With Django and GeoDjango
+# Django va GeoDjango yordamida joylashuvga asoslangan veb-ilova yaratish
 
-This folder contains the bonus material & example projects for our [Make a Location-Based Web App With Django and GeoDjango](https://realpython.com/location-based-app-with-geodjango-tutorial) tutorial on Real Python.
+Ushbu papka [Django va GeoDjango yordamida joylashuvga asoslangan veb-ilova yaratish](https://realpython.com/location-based-app-with-geodjango-tutorial) haqidagi Real Python qo'llanmasi uchun qo'shimcha materiallar va namunaviy loyihalarni o'z ichiga oladi.
 
-Check out [Make a Location-Based Web App With Django and GeoDjango](https://realpython.com/location-based-app-with-geodjango-tutorial/) for more information. 
-
+Qo'shimcha ma'lumot olish uchun [Django va GeoDjango yordamida joylashuvga asoslangan veb-ilova yaratish](https://realpython.com/location-based-app-with-geodjango-tutorial/) qo'llanmasini ko'rib chiqing.
